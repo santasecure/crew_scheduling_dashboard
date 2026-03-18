@@ -1,4 +1,4 @@
-# crew_scheduling_analysis
+# crew_scheduling_dashboard
 Crew Scheduling Dashboard
 
 Excel dashboard project analyzing flight crew scheduling, pilot coverage, and fleet distribution in a hypothetical airline operations scenario.
